@@ -1,3 +1,2 @@
 theme: jekyll-theme-architect
-show_downloads: true
-baseurl: https://github.com/GraceTHD-community/GraceTHD-sandbox
+show_downloads: false
