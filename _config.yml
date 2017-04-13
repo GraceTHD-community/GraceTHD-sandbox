@@ -1,4 +1,5 @@
 theme: jekyll-theme-architect
 show_downloads: true
-site.github.zip_url: "https://github.com/GraceTHD-community/GraceTHD-sandbox/zipball/master"
-site.github.tar_url: "https://github.com/GraceTHD-community/GraceTHD-sandbox/tarball/master"
+github:
+  zip_url: 'https://github.com/GraceTHD-community/GraceTHD-sandbox/zipball/master'
+  tar_url: 'https://github.com/GraceTHD-community/GraceTHD-sandbox/tarball/master'
